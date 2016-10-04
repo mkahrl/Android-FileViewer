@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">File Viewer</string>
+    <string name="no_access">CANNOT ACCESS EXTERNAL STORAGE !"</string>
+    <string name="no_permission">N0 PERMISSION FOR EXTERNAL STORAGE !</string>
+    <string name="sd_card_contents">SD Card Contents:</string>
+    <string name="empty_folder">Folder is empty</string>
+</resources>
